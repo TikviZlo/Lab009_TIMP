@@ -1,0 +1,11 @@
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/example1.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/example2.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/print.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/package.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/package_source.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/edit_cache.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/rebuild_cache.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/list_install_components.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/install.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/install/local.dir
+/home/tikvizlo/Lab009_TIMP/examples/_build/CMakeFiles/install/strip.dir
