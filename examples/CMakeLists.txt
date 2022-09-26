@@ -14,3 +14,5 @@ add_library(print STATIC "../src/print.cpp")
 
 target_link_libraries(example1 print)
 target_link_libraries(example2 print)
+
+include("../CPackConfig.cmake")
